@@ -10,4 +10,15 @@ var makeRequest = function(url, callback){
      request.send();
 }
 
+var allAlbums = []
+
+var requestComplete = function(){
+     if (this.status !==200) return;
+     var jsonString = this.responseText;
+     var objects = JSON.parse(jsonString);
+     for (item of objects['albums']['items']){
+          allAlbums.push(item);
+     };
+}
+
 window.onload = app;
