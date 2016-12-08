@@ -1,0 +1,692 @@
+app.js:18 {
+  "albums" : {
+    "href" : "https://api.spotify.com/v1/search?query=christmas&offset=0&limit=20&type=album",
+    "items" : [ {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AU", "BG", "BO", "BR", "CA", "CL", "CO", "CR", "CY", "CZ", "DO", "EC", "EE", "ES", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "JP", "LI", "LT", "LV", "MC", "MT", "MX", "MY", "NI", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2whKuzNvFl6OnkiOvN1vA0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2whKuzNvFl6OnkiOvN1vA0",
+      "id" : "2whKuzNvFl6OnkiOvN1vA0",
+      "images" : [ {
+        "height" : 600,
+        "url" : "https://i.scdn.co/image/ff334377b36b6d12a979671dfbf0a2ef09d39c1c",
+        "width" : 600
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/12dd6cb5775fe39af1c4078477c2cc32dbcd3e46",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/8d14d0c77f9962e4818757cbdd4547cd00b8fb40",
+        "width" : 64
+      } ],
+      "name" : "Christmas Music 100 Hits",
+      "type" : "album",
+      "uri" : "spotify:album:2whKuzNvFl6OnkiOvN1vA0"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+        "id" : "1GxkXlMwML1oSg5eLPiAz3",
+        "name" : "Michael Bublé",
+        "type" : "artist",
+        "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+      } ],
+      "available_markets" : [ "CA", "US" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3CKVXhODttZebJAzjUs2un",
+      "id" : "3CKVXhODttZebJAzjUs2un",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/5f828e84beaefc8c0539ca558f849e8549e8778c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/324c829e2b694f22077e7bf3e6c754dc1df7ab1c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/434629299f259f11f37fdadd6298d817f1c60efa",
+        "width" : 64
+      } ],
+      "name" : "Christmas",
+      "type" : "album",
+      "uri" : "spotify:album:3CKVXhODttZebJAzjUs2un"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6Mtye5lhYh1JtHenUkIsH6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6Mtye5lhYh1JtHenUkIsH6",
+      "id" : "6Mtye5lhYh1JtHenUkIsH6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/2cffda0efefb495da2db0d7043166621526ffd35",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/cf5ab6120055096cb4d2ca034d124538a741b5e9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/59e9b8090b06a3095625e544ed5ae449cf755804",
+        "width" : 64
+      } ],
+      "name" : "Christmas Hits",
+      "type" : "album",
+      "uri" : "spotify:album:6Mtye5lhYh1JtHenUkIsH6"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        },
+        "href" : "https://api.spotify.com/v1/artists/26AHtbjWKiwYzsoGoUZq53",
+        "id" : "26AHtbjWKiwYzsoGoUZq53",
+        "name" : "Pentatonix",
+        "type" : "artist",
+        "uri" : "spotify:artist:26AHtbjWKiwYzsoGoUZq53"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3oXvzShPN8iY2P1UYl3WVJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3oXvzShPN8iY2P1UYl3WVJ",
+      "id" : "3oXvzShPN8iY2P1UYl3WVJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/974438f01ded7d031d3cc72b42eb7ef66d91ab7f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/b2d894477a1921db71648df73bda055f68e86928",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/510d04ff08fa1383121b5c1530dd3d520bc00696",
+        "width" : 64
+      } ],
+      "name" : "A Pentatonix Christmas",
+      "type" : "album",
+      "uri" : "spotify:album:3oXvzShPN8iY2P1UYl3WVJ"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1GxkXlMwML1oSg5eLPiAz3",
+        "id" : "1GxkXlMwML1oSg5eLPiAz3",
+        "name" : "Michael Bublé",
+        "type" : "artist",
+        "uri" : "spotify:artist:1GxkXlMwML1oSg5eLPiAz3"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7uVimUILdzSZG4KKKWToq0",
+      "id" : "7uVimUILdzSZG4KKKWToq0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/91c2445c170390988d8010c45abb5c9d4c2db174",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/41d2e179be10e0a1cf7c82ce97c398836fbb51c4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/1ae7bbfbf480d3724b9a13541f301cf0322d68cb",
+        "width" : 64
+      } ],
+      "name" : "Christmas (Deluxe Special Edition)",
+      "type" : "album",
+      "uri" : "spotify:album:7uVimUILdzSZG4KKKWToq0"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6ZjFtWeHP9XN7FeKSUe80S",
+        "id" : "6ZjFtWeHP9XN7FeKSUe80S",
+        "name" : "Bing Crosby",
+        "type" : "artist",
+        "uri" : "spotify:artist:6ZjFtWeHP9XN7FeKSUe80S"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3My4DXwRjAS5HXontsJx1A",
+      "id" : "3My4DXwRjAS5HXontsJx1A",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/f1d5fd5c13a2057d1c04bc3a535fc4e48865259f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/e16e35b4c28a305b5b9710682f2f062a3f6c09a3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/a81a65e09fe20e3eef8495cf4ebffa72c76f01f8",
+        "width" : 64
+      } ],
+      "name" : "Bing Crosby - Christmas Classics",
+      "type" : "album",
+      "uri" : "spotify:album:3My4DXwRjAS5HXontsJx1A"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6ZjFtWeHP9XN7FeKSUe80S",
+        "id" : "6ZjFtWeHP9XN7FeKSUe80S",
+        "name" : "Bing Crosby",
+        "type" : "artist",
+        "uri" : "spotify:artist:6ZjFtWeHP9XN7FeKSUe80S"
+      } ],
+      "available_markets" : [ "CA", "US" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/14TY9gKgbCeJeezD8uGnD4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/14TY9gKgbCeJeezD8uGnD4",
+      "id" : "14TY9gKgbCeJeezD8uGnD4",
+      "images" : [ {
+        "height" : 635,
+        "url" : "https://i.scdn.co/image/3bb0daf5f87a737ce67ace001f240a82094de467",
+        "width" : 640
+      }, {
+        "height" : 297,
+        "url" : "https://i.scdn.co/image/def32607e1df9a01e83f1bba0069c3585a7af5ee",
+        "width" : 300
+      }, {
+        "height" : 63,
+        "url" : "https://i.scdn.co/image/2bb28783216d99995a471ff9a63805271e4a8a7a",
+        "width" : 64
+      } ],
+      "name" : "White Christmas",
+      "type" : "album",
+      "uri" : "spotify:album:14TY9gKgbCeJeezD8uGnD4"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4iHNK0tOyZPYnBU7nGAgpQ",
+        "id" : "4iHNK0tOyZPYnBU7nGAgpQ",
+        "name" : "Mariah Carey",
+        "type" : "artist",
+        "uri" : "spotify:artist:4iHNK0tOyZPYnBU7nGAgpQ"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/61ulfFSmmxMhc2wCdmdMkN",
+      "id" : "61ulfFSmmxMhc2wCdmdMkN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/e06f3ddadf59ee24504fc02bfe205945807a2437",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/46fb2752b5a9967f94c2cafd5f2903c89d6d8bf7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/770180da03a8e23ac5ff7847496e9538cf73ce85",
+        "width" : 64
+      } ],
+      "name" : "Merry Christmas",
+      "type" : "album",
+      "uri" : "spotify:album:61ulfFSmmxMhc2wCdmdMkN"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+        "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+        "name" : "Frank Sinatra",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0ny6mZMBrYSO0s8HAKbcVq",
+      "id" : "0ny6mZMBrYSO0s8HAKbcVq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/aa2317ed2d3c7dabbfff54b80d23cb373e743d7f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/06b8229609c0b70b0da7ad6e99a30148aeae96f9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/bcba466599b1be41e74430d1cb618f361c4170db",
+        "width" : 64
+      } ],
+      "name" : "A Jolly Christmas From Frank Sinatra",
+      "type" : "album",
+      "uri" : "spotify:album:0ny6mZMBrYSO0s8HAKbcVq"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7v4imS0moSyGdXyLgVTIV7",
+        "id" : "7v4imS0moSyGdXyLgVTIV7",
+        "name" : "Nat King Cole",
+        "type" : "artist",
+        "uri" : "spotify:artist:7v4imS0moSyGdXyLgVTIV7"
+      } ],
+      "available_markets" : [ "CA", "US" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6XodQl1BPzs13GY61iXQv7"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6XodQl1BPzs13GY61iXQv7",
+      "id" : "6XodQl1BPzs13GY61iXQv7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/034874a48c34401f4ebc0ed9f5e01c88b2eb9ade",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/6f37eb78ade7dd94d8643756547d5db66fe0f83b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/3b3b36b451f8a0c49ee2c17f31a96071a42fb064",
+        "width" : 64
+      } ],
+      "name" : "The Christmas Song",
+      "type" : "album",
+      "uri" : "spotify:album:6XodQl1BPzs13GY61iXQv7"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+        "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+        "name" : "Frank Sinatra",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2QRrrjJcbfHSx79HbXLpdl"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2QRrrjJcbfHSx79HbXLpdl",
+      "id" : "2QRrrjJcbfHSx79HbXLpdl",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/6cad0033aecb1e2cabd033100896a53598a96ccf",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/75793efffeb8a8a1baa960ed46f73f1b47e47f92",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/dbe4eb4359f43cd540730fcb529900bd0f03a624",
+        "width" : 64
+      } ],
+      "name" : "Christmas Songs By Sinatra",
+      "type" : "album",
+      "uri" : "spotify:album:2QRrrjJcbfHSx79HbXLpdl"
+    }, {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+        "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+        "name" : "Frank Sinatra",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7sFXxK0BjK01NAN5JyAd8I"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7sFXxK0BjK01NAN5JyAd8I",
+      "id" : "7sFXxK0BjK01NAN5JyAd8I",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/e4758313062326ee39a4cbe1b4aa7d13807c543d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/0d19ea998472a56efa89d0bd26f440ae118091ab",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ee020f026f4d4d56311759882f202203bfa24364",
+        "width" : 64
+      } ],
+      "name" : "Christmas",
+      "type" : "album",
+      "uri" : "spotify:album:7sFXxK0BjK01NAN5JyAd8I"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id" : "66CXWjxzNUsdJxJ2JdwvnR",
+        "name" : "Ariana Grande",
+        "type" : "artist",
+        "uri" : "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6yi7FjzeCHGVJJAdWRYAmk",
+      "id" : "6yi7FjzeCHGVJJAdWRYAmk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/e4800e631cac05bb291dbd8005c7283f0fae7f1d",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/b843fe6d257498f3eac07b8c725968bbcf0427b3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/de7d472cb958454e4ba6c342391e95d2d64019d8",
+        "width" : 64
+      } ],
+      "name" : "Christmas & Chill",
+      "type" : "album",
+      "uri" : "spotify:album:6yi7FjzeCHGVJJAdWRYAmk"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id" : "66CXWjxzNUsdJxJ2JdwvnR",
+        "name" : "Ariana Grande",
+        "type" : "artist",
+        "uri" : "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5MfeQZrrNfMqcaq03U9qOr",
+      "id" : "5MfeQZrrNfMqcaq03U9qOr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/4430f2c699fd2ba74b6e2726d9bc6f992897639a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/3521352fa31542653b33314116131aef7674fe55",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/9785d3d7a5c13cfefe40a70fa4c225dca2cb9862",
+        "width" : 64
+      } ],
+      "name" : "Christmas Kisses",
+      "type" : "album",
+      "uri" : "spotify:album:5MfeQZrrNfMqcaq03U9qOr"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ytkhMSAnrDP8XzRNlw9FS",
+        "id" : "4ytkhMSAnrDP8XzRNlw9FS",
+        "name" : "Vince Guaraldi Trio",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ytkhMSAnrDP8XzRNlw9FS"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7DuJYWu66RPdcekF5TuZ7w",
+      "id" : "7DuJYWu66RPdcekF5TuZ7w",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/7ea67cb73278cafab4159c400555b45db1db43fd",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/d065c3787289c1ec828101c40bf0340c72696fe6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/cc314f45ddb09b2afed89ff9a2edc0a5034066c3",
+        "width" : 64
+      } ],
+      "name" : "A Charlie Brown Christmas (Remastered & Expanded Edition)",
+      "type" : "album",
+      "uri" : "spotify:album:7DuJYWu66RPdcekF5TuZ7w"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+        "id" : "1Mxqyy3pSjf8kZZL4QVxS0",
+        "name" : "Frank Sinatra",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7gmak9ZGm10y4PtZa9SBQn",
+      "id" : "7gmak9ZGm10y4PtZa9SBQn",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/caf62001f392846ead7af5a1bf3be6d84a4a7aca",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/6f232baa4f324e0723db7f79b71315f51e508cb8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/5ee5034171976ac937a499ca2e6a630fd929c637",
+        "width" : 64
+      } ],
+      "name" : "Ultimate Sinatra",
+      "type" : "album",
+      "uri" : "spotify:album:7gmak9ZGm10y4PtZa9SBQn"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+        "id" : "16oZKvXb6WkQlVAjwo2Wbg",
+        "name" : "The Lumineers",
+        "type" : "artist",
+        "uri" : "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+      } ],
+      "available_markets" : [ "CA", "US" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6U5yOALzJfwYfMPYwFyUzB"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6U5yOALzJfwYfMPYwFyUzB",
+      "id" : "6U5yOALzJfwYfMPYwFyUzB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/3d7718e9413f3d59a99f4f58ae44a4724a4cf1e3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/7545867aaf1c2f1db8c88232709f3d9cfffda3c3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/95c621752c5b4b5685edb582326ed1a50e0e2295",
+        "width" : 64
+      } ],
+      "name" : "Blue Christmas",
+      "type" : "album",
+      "uri" : "spotify:album:6U5yOALzJfwYfMPYwFyUzB"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6ZjFtWeHP9XN7FeKSUe80S",
+        "id" : "6ZjFtWeHP9XN7FeKSUe80S",
+        "name" : "Bing Crosby",
+        "type" : "artist",
+        "uri" : "spotify:artist:6ZjFtWeHP9XN7FeKSUe80S"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5nn0oYdYM0JOQjSdGDUh5Z"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5nn0oYdYM0JOQjSdGDUh5Z",
+      "id" : "5nn0oYdYM0JOQjSdGDUh5Z",
+      "images" : [ {
+        "height" : 600,
+        "url" : "https://i.scdn.co/image/47e66e0236550dabab0d90c8ccccf4ece34d5379",
+        "width" : 600
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/1fcae9a79e7086c775d6ae0e3b75338538cc4013",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/86c5ba9ad8b470bb9e3e7fdf00dbc282932e1c92",
+        "width" : 64
+      } ],
+      "name" : "Christmas With Bing Crosby / Nat \"King\" Cole / Dean Martin",
+      "type" : "album",
+      "uri" : "spotify:album:5nn0oYdYM0JOQjSdGDUh5Z"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Ff53KvcvAj5U7Z1vojB5o",
+        "id" : "6Ff53KvcvAj5U7Z1vojB5o",
+        "name" : "*NSYNC",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Ff53KvcvAj5U7Z1vojB5o"
+      } ],
+      "available_markets" : [ "AR", "AU", "BO", "CA", "CL", "JP", "MY", "NZ", "PH", "PY", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6uIB97CqMcssTss9WrtX8c",
+      "id" : "6uIB97CqMcssTss9WrtX8c",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/b5cf74549804c44f3febb6e0c2c7cde67361bf92",
+        "width" : 622
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/bfbefd1bb2ae9a7830c441f06fd15318a0200598",
+        "width" : 292
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/470d36b4020e808758ed774a570c17c7b99859f3",
+        "width" : 62
+      } ],
+      "name" : "Home For Christmas",
+      "type" : "album",
+      "uri" : "spotify:album:6uIB97CqMcssTss9WrtX8c"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5V0MlUE1Bft0mbLlND7FJz",
+        "id" : "5V0MlUE1Bft0mbLlND7FJz",
+        "name" : "Ella Fitzgerald",
+        "type" : "artist",
+        "uri" : "spotify:artist:5V0MlUE1Bft0mbLlND7FJz"
+      } ],
+      "available_markets" : [ "CA", "US" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/15up0e6AFIYZbmErIVPU3p"
+      },
+      "href" : "https://api.spotify.com/v1/albums/15up0e6AFIYZbmErIVPU3p",
+      "id" : "15up0e6AFIYZbmErIVPU3p",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/cdb95c26d222700bdf3dd313c4daa63d781182f1",
+        "width" : 631
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/600541fa76e2f0c32cb90329ccdaef095f04f797",
+        "width" : 296
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/d3bffeaba82c54caf7c38c0acca9867fe1a42a8a",
+        "width" : 63
+      } ],
+      "name" : "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+      "type" : "album",
+      "uri" : "spotify:album:15up0e6AFIYZbmErIVPU3p"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=christmas&offset=20&limit=20&type=album",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 35822
+  }
+}
+app.js:24 Array[20]
