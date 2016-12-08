@@ -19,6 +19,17 @@ var requestComplete = function(){
      for (item of objects['albums']['items']){
           allAlbums.push(item);
      };
+     populateList(allAlbums);
+     console.log(allAlbums);
+}
+
+var populateList = function(albumList){
+     var albums = document.querySelector('#albums'); 
+     for (eachAlbum of allAlbums) {
+          var pTag = document.createElement('p');
+          pTag.innerText = eachAlbum.name;
+          albums.appendChild(pTag);
+     }
 }
 
 window.onload = app;
